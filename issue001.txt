@@ -2,3 +2,8 @@ in master add a line in front of the file
 .
 test in firefox issueoo1 of repo
 just for a test
+
+in issue003:
+we modify the file and add new file
+just like a chain
+
